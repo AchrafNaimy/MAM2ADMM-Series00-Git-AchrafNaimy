@@ -9,4 +9,3 @@ Here’s a lovely image I added:
 
 ![Beautiful Landscape](https://images.unsplash.com/photo-1501785888041-af3ef285b470)
 
-*Photo credit: [Unsplash](https://unsplash.com/photos/VowIFDxogG4)*
