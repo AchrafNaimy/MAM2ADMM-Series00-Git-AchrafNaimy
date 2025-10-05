@@ -4,7 +4,6 @@
 
 **Team Members:**  
 - Achraf Naimy  
-- [Ajouter les autres membres de ton équipe ici]
 
 ---
 This notebook computes and plots **ENMO (Euclidean Norm Minus One)** integrated over epochs of **10s, 30s, and 60s** using wrist accelerometer data.
