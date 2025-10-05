@@ -18,3 +18,7 @@ We read the CSV file containing accelerometer readings (`t`, `x`, `y`, `z`).
 Lines starting with '#' are ignored as comments. 
 Only relevant columns are selected for analysis.
 
+## Step 3: Compute ENMO
+ENMO (Euclidean Norm Minus One) removes the gravitational component from acceleration.  
+We calculate the vector magnitude of acceleration, subtract 1 g, and keep only positive values.  
+This gives a measure of physical activity intensity.
