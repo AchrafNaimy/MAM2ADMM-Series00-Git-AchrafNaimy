@@ -26,3 +26,9 @@ This gives a measure of physical activity intensity.
 ## Step 4: Epoch Integration
 We divide the data into epochs of 10, 30, and 60 seconds.  
 For each epoch, we integrate ENMO values to summarize activity in that time interval.
+
+## Step 5: Visualization
+We create 6 vertical plots:
+1. Bar plots of integrated ENMO for each epoch length.
+2. Line plots of raw ENMO over time.
+This allows comparison between raw and summarized activity.
