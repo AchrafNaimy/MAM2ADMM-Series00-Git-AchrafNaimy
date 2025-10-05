@@ -12,3 +12,9 @@ This notebook computes and plots **ENMO (Euclidean Norm Minus One)** integrated 
 ## Step 1: Import Libraries
 We import `pandas` for data handling, `numpy` for numerical calculations, and `matplotlib` for visualization. 
 These are essential for loading accelerometer data, computing ENMO, and plotting results.
+
+## Step 2: Load Data
+We read the CSV file containing accelerometer readings (`t`, `x`, `y`, `z`). 
+Lines starting with '#' are ignored as comments. 
+Only relevant columns are selected for analysis.
+
