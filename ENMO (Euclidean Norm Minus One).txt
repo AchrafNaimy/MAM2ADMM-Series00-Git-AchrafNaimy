@@ -1,0 +1,10 @@
+# ENMO Epoch Analysis (Axivity AX3 Data)
+
+**GitHub Repository:** (https://github.com/AchrafNaimy/MAM2ADMM-Series00-Git-AchrafNaimy.git)
+
+**Team Members:**  
+- Achraf Naimy  
+- [Ajouter les autres membres de ton équipe ici]
+
+---
+This notebook computes and plots **ENMO (Euclidean Norm Minus One)** integrated over epochs of **10s, 30s, and 60s** using wrist accelerometer data.
