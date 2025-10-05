@@ -8,3 +8,7 @@
 
 ---
 This notebook computes and plots **ENMO (Euclidean Norm Minus One)** integrated over epochs of **10s, 30s, and 60s** using wrist accelerometer data.
+
+## Step 1: Import Libraries
+We import `pandas` for data handling, `numpy` for numerical calculations, and `matplotlib` for visualization. 
+These are essential for loading accelerometer data, computing ENMO, and plotting results.
