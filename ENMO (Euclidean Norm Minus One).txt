@@ -73,4 +73,5 @@ def plot_enmo(df, epoch_list, dt):
     plt.savefig("enmo_6plots_vertical.png", dpi=150)
     plt.show()
 
-![alt text](image.png)
+![6 vertical plots](C:\Users\city\Documents\Courses\SNS\HAH913E\Python-for-HMS-Template-main\Python-for-HMS-Template-main)
+
