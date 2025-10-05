@@ -22,3 +22,7 @@ Only relevant columns are selected for analysis.
 ENMO (Euclidean Norm Minus One) removes the gravitational component from acceleration.  
 We calculate the vector magnitude of acceleration, subtract 1 g, and keep only positive values.  
 This gives a measure of physical activity intensity.
+
+## Step 4: Epoch Integration
+We divide the data into epochs of 10, 30, and 60 seconds.  
+For each epoch, we integrate ENMO values to summarize activity in that time interval.
